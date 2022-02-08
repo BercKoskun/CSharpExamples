@@ -1,0 +1,15 @@
+/Users/berk/Documents/Projects/CSharp/Degiskenler/bin/Debug/net6.0/Degiskenler
+/Users/berk/Documents/Projects/CSharp/Degiskenler/bin/Debug/net6.0/Degiskenler.deps.json
+/Users/berk/Documents/Projects/CSharp/Degiskenler/bin/Debug/net6.0/Degiskenler.runtimeconfig.json
+/Users/berk/Documents/Projects/CSharp/Degiskenler/bin/Debug/net6.0/Degiskenler.dll
+/Users/berk/Documents/Projects/CSharp/Degiskenler/bin/Debug/net6.0/ref/Degiskenler.dll
+/Users/berk/Documents/Projects/CSharp/Degiskenler/bin/Debug/net6.0/Degiskenler.pdb
+/Users/berk/Documents/Projects/CSharp/Degiskenler/obj/Debug/net6.0/Degiskenler.csproj.AssemblyReference.cache
+/Users/berk/Documents/Projects/CSharp/Degiskenler/obj/Debug/net6.0/Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berk/Documents/Projects/CSharp/Degiskenler/obj/Debug/net6.0/Degiskenler.AssemblyInfoInputs.cache
+/Users/berk/Documents/Projects/CSharp/Degiskenler/obj/Debug/net6.0/Degiskenler.AssemblyInfo.cs
+/Users/berk/Documents/Projects/CSharp/Degiskenler/obj/Debug/net6.0/Degiskenler.csproj.CoreCompileInputs.cache
+/Users/berk/Documents/Projects/CSharp/Degiskenler/obj/Debug/net6.0/Degiskenler.dll
+/Users/berk/Documents/Projects/CSharp/Degiskenler/obj/Debug/net6.0/ref/Degiskenler.dll
+/Users/berk/Documents/Projects/CSharp/Degiskenler/obj/Debug/net6.0/Degiskenler.pdb
+/Users/berk/Documents/Projects/CSharp/Degiskenler/obj/Debug/net6.0/Degiskenler.genruntimeconfig.cache
