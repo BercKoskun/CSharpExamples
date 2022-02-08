@@ -12,6 +12,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             //
             string degisken=null;
             //
+            
             byte b=5;       //1byte
             sbyte c=5;      //1byte
 
