@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/CSharp/Degiskenler/bin/Debug/net6.0/Degiskenler.dll",
+            "program": "${workspaceFolder}/CSharp/Operatorler/bin/Debug/net6.0/Operatorler.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/CSharp/Degiskenler",
+            "cwd": "${workspaceFolder}/CSharp/Operatorler",
             "console": "integratedTerminal",
             "stopAtEntry": false
         },
