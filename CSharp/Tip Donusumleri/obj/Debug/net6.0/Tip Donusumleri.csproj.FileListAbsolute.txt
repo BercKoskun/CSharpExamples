@@ -1,0 +1,15 @@
+/Users/berk/Documents/Projects/CSharp/Tip Donusumleri/obj/Debug/net6.0/Tip Donusumleri.csproj.AssemblyReference.cache
+/Users/berk/Documents/Projects/CSharp/Tip Donusumleri/obj/Debug/net6.0/Tip Donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berk/Documents/Projects/CSharp/Tip Donusumleri/obj/Debug/net6.0/Tip Donusumleri.AssemblyInfoInputs.cache
+/Users/berk/Documents/Projects/CSharp/Tip Donusumleri/obj/Debug/net6.0/Tip Donusumleri.AssemblyInfo.cs
+/Users/berk/Documents/Projects/CSharp/Tip Donusumleri/obj/Debug/net6.0/Tip Donusumleri.csproj.CoreCompileInputs.cache
+/Users/berk/Documents/Projects/CSharp/Tip Donusumleri/bin/Debug/net6.0/Tip Donusumleri
+/Users/berk/Documents/Projects/CSharp/Tip Donusumleri/bin/Debug/net6.0/Tip Donusumleri.deps.json
+/Users/berk/Documents/Projects/CSharp/Tip Donusumleri/bin/Debug/net6.0/Tip Donusumleri.runtimeconfig.json
+/Users/berk/Documents/Projects/CSharp/Tip Donusumleri/bin/Debug/net6.0/Tip Donusumleri.dll
+/Users/berk/Documents/Projects/CSharp/Tip Donusumleri/bin/Debug/net6.0/ref/Tip Donusumleri.dll
+/Users/berk/Documents/Projects/CSharp/Tip Donusumleri/bin/Debug/net6.0/Tip Donusumleri.pdb
+/Users/berk/Documents/Projects/CSharp/Tip Donusumleri/obj/Debug/net6.0/Tip Donusumleri.dll
+/Users/berk/Documents/Projects/CSharp/Tip Donusumleri/obj/Debug/net6.0/ref/Tip Donusumleri.dll
+/Users/berk/Documents/Projects/CSharp/Tip Donusumleri/obj/Debug/net6.0/Tip Donusumleri.pdb
+/Users/berk/Documents/Projects/CSharp/Tip Donusumleri/obj/Debug/net6.0/Tip Donusumleri.genruntimeconfig.cache
