@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/berk/Documents/Projects/CSharp/Degiskenler/Degiskenler.csproj",
+      "projectUniqueName": "/Users/berk/Desktop/CSharpExamples/CSharp/Degiskenler/Degiskenler.csproj",
       "projectName": "Degiskenler",
-      "projectPath": "/Users/berk/Documents/Projects/CSharp/Degiskenler/Degiskenler.csproj",
+      "projectPath": "/Users/berk/Desktop/CSharpExamples/CSharp/Degiskenler/Degiskenler.csproj",
       "packagesPath": "/Users/berk/.nuget/packages/",
-      "outputPath": "/Users/berk/Documents/Projects/CSharp/Degiskenler/obj/",
+      "outputPath": "/Users/berk/Desktop/CSharpExamples/CSharp/Degiskenler/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/berk/.nuget/NuGet/NuGet.Config"
