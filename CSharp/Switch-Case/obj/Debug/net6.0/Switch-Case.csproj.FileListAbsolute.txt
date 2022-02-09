@@ -1,0 +1,15 @@
+/Users/berk/Documents/Projects/CSharp/Switch-Case/bin/Debug/net6.0/Switch-Case
+/Users/berk/Documents/Projects/CSharp/Switch-Case/bin/Debug/net6.0/Switch-Case.deps.json
+/Users/berk/Documents/Projects/CSharp/Switch-Case/bin/Debug/net6.0/Switch-Case.runtimeconfig.json
+/Users/berk/Documents/Projects/CSharp/Switch-Case/bin/Debug/net6.0/Switch-Case.dll
+/Users/berk/Documents/Projects/CSharp/Switch-Case/bin/Debug/net6.0/ref/Switch-Case.dll
+/Users/berk/Documents/Projects/CSharp/Switch-Case/bin/Debug/net6.0/Switch-Case.pdb
+/Users/berk/Documents/Projects/CSharp/Switch-Case/obj/Debug/net6.0/Switch-Case.csproj.AssemblyReference.cache
+/Users/berk/Documents/Projects/CSharp/Switch-Case/obj/Debug/net6.0/Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berk/Documents/Projects/CSharp/Switch-Case/obj/Debug/net6.0/Switch-Case.AssemblyInfoInputs.cache
+/Users/berk/Documents/Projects/CSharp/Switch-Case/obj/Debug/net6.0/Switch-Case.AssemblyInfo.cs
+/Users/berk/Documents/Projects/CSharp/Switch-Case/obj/Debug/net6.0/Switch-Case.csproj.CoreCompileInputs.cache
+/Users/berk/Documents/Projects/CSharp/Switch-Case/obj/Debug/net6.0/Switch-Case.dll
+/Users/berk/Documents/Projects/CSharp/Switch-Case/obj/Debug/net6.0/ref/Switch-Case.dll
+/Users/berk/Documents/Projects/CSharp/Switch-Case/obj/Debug/net6.0/Switch-Case.pdb
+/Users/berk/Documents/Projects/CSharp/Switch-Case/obj/Debug/net6.0/Switch-Case.genruntimeconfig.cache
