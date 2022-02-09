@@ -1,0 +1,15 @@
+/Users/berk/Documents/Projects/CSharp/For Loop/bin/Debug/net6.0/For Loop
+/Users/berk/Documents/Projects/CSharp/For Loop/bin/Debug/net6.0/For Loop.deps.json
+/Users/berk/Documents/Projects/CSharp/For Loop/bin/Debug/net6.0/For Loop.runtimeconfig.json
+/Users/berk/Documents/Projects/CSharp/For Loop/bin/Debug/net6.0/For Loop.dll
+/Users/berk/Documents/Projects/CSharp/For Loop/bin/Debug/net6.0/ref/For Loop.dll
+/Users/berk/Documents/Projects/CSharp/For Loop/bin/Debug/net6.0/For Loop.pdb
+/Users/berk/Documents/Projects/CSharp/For Loop/obj/Debug/net6.0/For Loop.csproj.AssemblyReference.cache
+/Users/berk/Documents/Projects/CSharp/For Loop/obj/Debug/net6.0/For Loop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berk/Documents/Projects/CSharp/For Loop/obj/Debug/net6.0/For Loop.AssemblyInfoInputs.cache
+/Users/berk/Documents/Projects/CSharp/For Loop/obj/Debug/net6.0/For Loop.AssemblyInfo.cs
+/Users/berk/Documents/Projects/CSharp/For Loop/obj/Debug/net6.0/For Loop.csproj.CoreCompileInputs.cache
+/Users/berk/Documents/Projects/CSharp/For Loop/obj/Debug/net6.0/For Loop.dll
+/Users/berk/Documents/Projects/CSharp/For Loop/obj/Debug/net6.0/ref/For Loop.dll
+/Users/berk/Documents/Projects/CSharp/For Loop/obj/Debug/net6.0/For Loop.pdb
+/Users/berk/Documents/Projects/CSharp/For Loop/obj/Debug/net6.0/For Loop.genruntimeconfig.cache
