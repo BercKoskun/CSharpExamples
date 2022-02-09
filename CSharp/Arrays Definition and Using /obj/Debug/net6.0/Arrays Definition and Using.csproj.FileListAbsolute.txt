@@ -1,0 +1,15 @@
+/Users/berk/Documents/Projects/CSharp/Arrays Definition and Using /bin/Debug/net6.0/Arrays Definition and Using
+/Users/berk/Documents/Projects/CSharp/Arrays Definition and Using /bin/Debug/net6.0/Arrays Definition and Using.deps.json
+/Users/berk/Documents/Projects/CSharp/Arrays Definition and Using /bin/Debug/net6.0/Arrays Definition and Using.runtimeconfig.json
+/Users/berk/Documents/Projects/CSharp/Arrays Definition and Using /bin/Debug/net6.0/Arrays Definition and Using.dll
+/Users/berk/Documents/Projects/CSharp/Arrays Definition and Using /bin/Debug/net6.0/ref/Arrays Definition and Using.dll
+/Users/berk/Documents/Projects/CSharp/Arrays Definition and Using /bin/Debug/net6.0/Arrays Definition and Using.pdb
+/Users/berk/Documents/Projects/CSharp/Arrays Definition and Using /obj/Debug/net6.0/Arrays Definition and Using.csproj.AssemblyReference.cache
+/Users/berk/Documents/Projects/CSharp/Arrays Definition and Using /obj/Debug/net6.0/Arrays Definition and Using.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berk/Documents/Projects/CSharp/Arrays Definition and Using /obj/Debug/net6.0/Arrays Definition and Using.AssemblyInfoInputs.cache
+/Users/berk/Documents/Projects/CSharp/Arrays Definition and Using /obj/Debug/net6.0/Arrays Definition and Using.AssemblyInfo.cs
+/Users/berk/Documents/Projects/CSharp/Arrays Definition and Using /obj/Debug/net6.0/Arrays Definition and Using.csproj.CoreCompileInputs.cache
+/Users/berk/Documents/Projects/CSharp/Arrays Definition and Using /obj/Debug/net6.0/Arrays Definition and Using.dll
+/Users/berk/Documents/Projects/CSharp/Arrays Definition and Using /obj/Debug/net6.0/ref/Arrays Definition and Using.dll
+/Users/berk/Documents/Projects/CSharp/Arrays Definition and Using /obj/Debug/net6.0/Arrays Definition and Using.pdb
+/Users/berk/Documents/Projects/CSharp/Arrays Definition and Using /obj/Debug/net6.0/Arrays Definition and Using.genruntimeconfig.cache

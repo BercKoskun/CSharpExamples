@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Arrays Definition and Using/1.0.0": {
+        "runtime": {
+          "Arrays Definition and Using.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arrays Definition and Using/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
