@@ -27,7 +27,7 @@ for (int i = 1; i < 10; i++)
 {
     if(i==4)
         break; // 4'ü gördüğü anda programı kırar
-    Console.WriteLine(i)   
+    Console.WriteLine(i);  
 }
 
 for (int i = 1; i < 10; i++)
