@@ -1,0 +1,15 @@
+/Users/berk/Documents/Projects/CSharp/HataYonetimi/bin/Debug/net6.0/HataYonetimi
+/Users/berk/Documents/Projects/CSharp/HataYonetimi/bin/Debug/net6.0/HataYonetimi.deps.json
+/Users/berk/Documents/Projects/CSharp/HataYonetimi/bin/Debug/net6.0/HataYonetimi.runtimeconfig.json
+/Users/berk/Documents/Projects/CSharp/HataYonetimi/bin/Debug/net6.0/HataYonetimi.dll
+/Users/berk/Documents/Projects/CSharp/HataYonetimi/bin/Debug/net6.0/ref/HataYonetimi.dll
+/Users/berk/Documents/Projects/CSharp/HataYonetimi/bin/Debug/net6.0/HataYonetimi.pdb
+/Users/berk/Documents/Projects/CSharp/HataYonetimi/obj/Debug/net6.0/HataYonetimi.csproj.AssemblyReference.cache
+/Users/berk/Documents/Projects/CSharp/HataYonetimi/obj/Debug/net6.0/HataYonetimi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berk/Documents/Projects/CSharp/HataYonetimi/obj/Debug/net6.0/HataYonetimi.AssemblyInfoInputs.cache
+/Users/berk/Documents/Projects/CSharp/HataYonetimi/obj/Debug/net6.0/HataYonetimi.AssemblyInfo.cs
+/Users/berk/Documents/Projects/CSharp/HataYonetimi/obj/Debug/net6.0/HataYonetimi.csproj.CoreCompileInputs.cache
+/Users/berk/Documents/Projects/CSharp/HataYonetimi/obj/Debug/net6.0/HataYonetimi.dll
+/Users/berk/Documents/Projects/CSharp/HataYonetimi/obj/Debug/net6.0/ref/HataYonetimi.dll
+/Users/berk/Documents/Projects/CSharp/HataYonetimi/obj/Debug/net6.0/HataYonetimi.pdb
+/Users/berk/Documents/Projects/CSharp/HataYonetimi/obj/Debug/net6.0/HataYonetimi.genruntimeconfig.cache
