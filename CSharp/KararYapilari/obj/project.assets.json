@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/berk/Desktop/CSharpExamples/CSharp/HataYonetimi/HataYonetimi.csproj",
-      "projectName": "HataYonetimi",
-      "projectPath": "/Users/berk/Desktop/CSharpExamples/CSharp/HataYonetimi/HataYonetimi.csproj",
+      "projectUniqueName": "/Users/berk/Documents/Projects/CSharp/KararYapilari/KararYapilari.csproj",
+      "projectName": "KararYapilari",
+      "projectPath": "/Users/berk/Documents/Projects/CSharp/KararYapilari/KararYapilari.csproj",
       "packagesPath": "/Users/berk/.nuget/packages/",
-      "outputPath": "/Users/berk/Desktop/CSharpExamples/CSharp/HataYonetimi/obj/",
+      "outputPath": "/Users/berk/Documents/Projects/CSharp/KararYapilari/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/berk/.nuget/NuGet/NuGet.Config"
