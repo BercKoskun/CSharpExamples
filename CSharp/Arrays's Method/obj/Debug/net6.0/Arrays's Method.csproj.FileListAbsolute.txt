@@ -1,0 +1,15 @@
+/Users/berk/Documents/Projects/CSharp/Arrays's Method/bin/Debug/net6.0/Arrays's Method
+/Users/berk/Documents/Projects/CSharp/Arrays's Method/bin/Debug/net6.0/Arrays's Method.deps.json
+/Users/berk/Documents/Projects/CSharp/Arrays's Method/bin/Debug/net6.0/Arrays's Method.runtimeconfig.json
+/Users/berk/Documents/Projects/CSharp/Arrays's Method/bin/Debug/net6.0/Arrays's Method.dll
+/Users/berk/Documents/Projects/CSharp/Arrays's Method/bin/Debug/net6.0/ref/Arrays's Method.dll
+/Users/berk/Documents/Projects/CSharp/Arrays's Method/bin/Debug/net6.0/Arrays's Method.pdb
+/Users/berk/Documents/Projects/CSharp/Arrays's Method/obj/Debug/net6.0/Arrays's Method.csproj.AssemblyReference.cache
+/Users/berk/Documents/Projects/CSharp/Arrays's Method/obj/Debug/net6.0/Arrays's Method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berk/Documents/Projects/CSharp/Arrays's Method/obj/Debug/net6.0/Arrays's Method.AssemblyInfoInputs.cache
+/Users/berk/Documents/Projects/CSharp/Arrays's Method/obj/Debug/net6.0/Arrays's Method.AssemblyInfo.cs
+/Users/berk/Documents/Projects/CSharp/Arrays's Method/obj/Debug/net6.0/Arrays's Method.csproj.CoreCompileInputs.cache
+/Users/berk/Documents/Projects/CSharp/Arrays's Method/obj/Debug/net6.0/Arrays's Method.dll
+/Users/berk/Documents/Projects/CSharp/Arrays's Method/obj/Debug/net6.0/ref/Arrays's Method.dll
+/Users/berk/Documents/Projects/CSharp/Arrays's Method/obj/Debug/net6.0/Arrays's Method.pdb
+/Users/berk/Documents/Projects/CSharp/Arrays's Method/obj/Debug/net6.0/Arrays's Method.genruntimeconfig.cache
