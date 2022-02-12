@@ -1,0 +1,15 @@
+/Users/berk/Documents/Projects/CSharp/MetotRecursive/bin/Debug/net6.0/MetotRecursive
+/Users/berk/Documents/Projects/CSharp/MetotRecursive/bin/Debug/net6.0/MetotRecursive.deps.json
+/Users/berk/Documents/Projects/CSharp/MetotRecursive/bin/Debug/net6.0/MetotRecursive.runtimeconfig.json
+/Users/berk/Documents/Projects/CSharp/MetotRecursive/bin/Debug/net6.0/MetotRecursive.dll
+/Users/berk/Documents/Projects/CSharp/MetotRecursive/bin/Debug/net6.0/ref/MetotRecursive.dll
+/Users/berk/Documents/Projects/CSharp/MetotRecursive/bin/Debug/net6.0/MetotRecursive.pdb
+/Users/berk/Documents/Projects/CSharp/MetotRecursive/obj/Debug/net6.0/MetotRecursive.csproj.AssemblyReference.cache
+/Users/berk/Documents/Projects/CSharp/MetotRecursive/obj/Debug/net6.0/MetotRecursive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berk/Documents/Projects/CSharp/MetotRecursive/obj/Debug/net6.0/MetotRecursive.AssemblyInfoInputs.cache
+/Users/berk/Documents/Projects/CSharp/MetotRecursive/obj/Debug/net6.0/MetotRecursive.AssemblyInfo.cs
+/Users/berk/Documents/Projects/CSharp/MetotRecursive/obj/Debug/net6.0/MetotRecursive.csproj.CoreCompileInputs.cache
+/Users/berk/Documents/Projects/CSharp/MetotRecursive/obj/Debug/net6.0/MetotRecursive.dll
+/Users/berk/Documents/Projects/CSharp/MetotRecursive/obj/Debug/net6.0/ref/MetotRecursive.dll
+/Users/berk/Documents/Projects/CSharp/MetotRecursive/obj/Debug/net6.0/MetotRecursive.pdb
+/Users/berk/Documents/Projects/CSharp/MetotRecursive/obj/Debug/net6.0/MetotRecursive.genruntimeconfig.cache
