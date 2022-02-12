@@ -1,0 +1,15 @@
+/Users/berk/Documents/Projects/CSharp/MetotOverloading/bin/Debug/net6.0/MetotOverloading
+/Users/berk/Documents/Projects/CSharp/MetotOverloading/bin/Debug/net6.0/MetotOverloading.deps.json
+/Users/berk/Documents/Projects/CSharp/MetotOverloading/bin/Debug/net6.0/MetotOverloading.runtimeconfig.json
+/Users/berk/Documents/Projects/CSharp/MetotOverloading/bin/Debug/net6.0/MetotOverloading.dll
+/Users/berk/Documents/Projects/CSharp/MetotOverloading/bin/Debug/net6.0/ref/MetotOverloading.dll
+/Users/berk/Documents/Projects/CSharp/MetotOverloading/bin/Debug/net6.0/MetotOverloading.pdb
+/Users/berk/Documents/Projects/CSharp/MetotOverloading/obj/Debug/net6.0/MetotOverloading.csproj.AssemblyReference.cache
+/Users/berk/Documents/Projects/CSharp/MetotOverloading/obj/Debug/net6.0/MetotOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berk/Documents/Projects/CSharp/MetotOverloading/obj/Debug/net6.0/MetotOverloading.AssemblyInfoInputs.cache
+/Users/berk/Documents/Projects/CSharp/MetotOverloading/obj/Debug/net6.0/MetotOverloading.AssemblyInfo.cs
+/Users/berk/Documents/Projects/CSharp/MetotOverloading/obj/Debug/net6.0/MetotOverloading.csproj.CoreCompileInputs.cache
+/Users/berk/Documents/Projects/CSharp/MetotOverloading/obj/Debug/net6.0/MetotOverloading.dll
+/Users/berk/Documents/Projects/CSharp/MetotOverloading/obj/Debug/net6.0/ref/MetotOverloading.dll
+/Users/berk/Documents/Projects/CSharp/MetotOverloading/obj/Debug/net6.0/MetotOverloading.pdb
+/Users/berk/Documents/Projects/CSharp/MetotOverloading/obj/Debug/net6.0/MetotOverloading.genruntimeconfig.cache
