@@ -1,0 +1,15 @@
+/Users/berk/Documents/Projects/CSharp/String Dict/obj/Debug/net6.0/String Dict.csproj.AssemblyReference.cache
+/Users/berk/Documents/Projects/CSharp/String Dict/obj/Debug/net6.0/String Dict.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berk/Documents/Projects/CSharp/String Dict/obj/Debug/net6.0/String Dict.AssemblyInfoInputs.cache
+/Users/berk/Documents/Projects/CSharp/String Dict/obj/Debug/net6.0/String Dict.AssemblyInfo.cs
+/Users/berk/Documents/Projects/CSharp/String Dict/obj/Debug/net6.0/String Dict.csproj.CoreCompileInputs.cache
+/Users/berk/Documents/Projects/CSharp/String Dict/bin/Debug/net6.0/String Dict
+/Users/berk/Documents/Projects/CSharp/String Dict/bin/Debug/net6.0/String Dict.deps.json
+/Users/berk/Documents/Projects/CSharp/String Dict/bin/Debug/net6.0/String Dict.runtimeconfig.json
+/Users/berk/Documents/Projects/CSharp/String Dict/bin/Debug/net6.0/String Dict.dll
+/Users/berk/Documents/Projects/CSharp/String Dict/bin/Debug/net6.0/ref/String Dict.dll
+/Users/berk/Documents/Projects/CSharp/String Dict/bin/Debug/net6.0/String Dict.pdb
+/Users/berk/Documents/Projects/CSharp/String Dict/obj/Debug/net6.0/String Dict.dll
+/Users/berk/Documents/Projects/CSharp/String Dict/obj/Debug/net6.0/ref/String Dict.dll
+/Users/berk/Documents/Projects/CSharp/String Dict/obj/Debug/net6.0/String Dict.pdb
+/Users/berk/Documents/Projects/CSharp/String Dict/obj/Debug/net6.0/String Dict.genruntimeconfig.cache
