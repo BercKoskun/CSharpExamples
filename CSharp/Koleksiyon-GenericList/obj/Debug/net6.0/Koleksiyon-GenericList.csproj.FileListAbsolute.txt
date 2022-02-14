@@ -1,0 +1,15 @@
+/Users/berk/Documents/Projects/CSharp/Koleksiyon-GenericList/bin/Debug/net6.0/Koleksiyon-GenericList
+/Users/berk/Documents/Projects/CSharp/Koleksiyon-GenericList/bin/Debug/net6.0/Koleksiyon-GenericList.deps.json
+/Users/berk/Documents/Projects/CSharp/Koleksiyon-GenericList/bin/Debug/net6.0/Koleksiyon-GenericList.runtimeconfig.json
+/Users/berk/Documents/Projects/CSharp/Koleksiyon-GenericList/bin/Debug/net6.0/Koleksiyon-GenericList.dll
+/Users/berk/Documents/Projects/CSharp/Koleksiyon-GenericList/bin/Debug/net6.0/ref/Koleksiyon-GenericList.dll
+/Users/berk/Documents/Projects/CSharp/Koleksiyon-GenericList/bin/Debug/net6.0/Koleksiyon-GenericList.pdb
+/Users/berk/Documents/Projects/CSharp/Koleksiyon-GenericList/obj/Debug/net6.0/Koleksiyon-GenericList.csproj.AssemblyReference.cache
+/Users/berk/Documents/Projects/CSharp/Koleksiyon-GenericList/obj/Debug/net6.0/Koleksiyon-GenericList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berk/Documents/Projects/CSharp/Koleksiyon-GenericList/obj/Debug/net6.0/Koleksiyon-GenericList.AssemblyInfoInputs.cache
+/Users/berk/Documents/Projects/CSharp/Koleksiyon-GenericList/obj/Debug/net6.0/Koleksiyon-GenericList.AssemblyInfo.cs
+/Users/berk/Documents/Projects/CSharp/Koleksiyon-GenericList/obj/Debug/net6.0/Koleksiyon-GenericList.csproj.CoreCompileInputs.cache
+/Users/berk/Documents/Projects/CSharp/Koleksiyon-GenericList/obj/Debug/net6.0/Koleksiyon-GenericList.dll
+/Users/berk/Documents/Projects/CSharp/Koleksiyon-GenericList/obj/Debug/net6.0/ref/Koleksiyon-GenericList.dll
+/Users/berk/Documents/Projects/CSharp/Koleksiyon-GenericList/obj/Debug/net6.0/Koleksiyon-GenericList.pdb
+/Users/berk/Documents/Projects/CSharp/Koleksiyon-GenericList/obj/Debug/net6.0/Koleksiyon-GenericList.genruntimeconfig.cache
