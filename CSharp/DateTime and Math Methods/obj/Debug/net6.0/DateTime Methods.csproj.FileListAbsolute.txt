@@ -1,0 +1,15 @@
+/Users/berk/Documents/Projects/CSharp/DateTime and Math Methods/bin/Debug/net6.0/DateTime Methods
+/Users/berk/Documents/Projects/CSharp/DateTime and Math Methods/bin/Debug/net6.0/DateTime Methods.deps.json
+/Users/berk/Documents/Projects/CSharp/DateTime and Math Methods/bin/Debug/net6.0/DateTime Methods.runtimeconfig.json
+/Users/berk/Documents/Projects/CSharp/DateTime and Math Methods/bin/Debug/net6.0/DateTime Methods.dll
+/Users/berk/Documents/Projects/CSharp/DateTime and Math Methods/bin/Debug/net6.0/ref/DateTime Methods.dll
+/Users/berk/Documents/Projects/CSharp/DateTime and Math Methods/bin/Debug/net6.0/DateTime Methods.pdb
+/Users/berk/Documents/Projects/CSharp/DateTime and Math Methods/obj/Debug/net6.0/DateTime Methods.csproj.AssemblyReference.cache
+/Users/berk/Documents/Projects/CSharp/DateTime and Math Methods/obj/Debug/net6.0/DateTime Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berk/Documents/Projects/CSharp/DateTime and Math Methods/obj/Debug/net6.0/DateTime Methods.AssemblyInfoInputs.cache
+/Users/berk/Documents/Projects/CSharp/DateTime and Math Methods/obj/Debug/net6.0/DateTime Methods.AssemblyInfo.cs
+/Users/berk/Documents/Projects/CSharp/DateTime and Math Methods/obj/Debug/net6.0/DateTime Methods.csproj.CoreCompileInputs.cache
+/Users/berk/Documents/Projects/CSharp/DateTime and Math Methods/obj/Debug/net6.0/DateTime Methods.dll
+/Users/berk/Documents/Projects/CSharp/DateTime and Math Methods/obj/Debug/net6.0/ref/DateTime Methods.dll
+/Users/berk/Documents/Projects/CSharp/DateTime and Math Methods/obj/Debug/net6.0/DateTime Methods.pdb
+/Users/berk/Documents/Projects/CSharp/DateTime and Math Methods/obj/Debug/net6.0/DateTime Methods.genruntimeconfig.cache
