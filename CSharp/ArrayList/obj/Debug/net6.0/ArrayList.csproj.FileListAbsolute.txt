@@ -1,0 +1,15 @@
+/Users/berk/Documents/Projects/CSharp/ArrayList/bin/Debug/net6.0/ArrayList
+/Users/berk/Documents/Projects/CSharp/ArrayList/bin/Debug/net6.0/ArrayList.deps.json
+/Users/berk/Documents/Projects/CSharp/ArrayList/bin/Debug/net6.0/ArrayList.runtimeconfig.json
+/Users/berk/Documents/Projects/CSharp/ArrayList/bin/Debug/net6.0/ArrayList.dll
+/Users/berk/Documents/Projects/CSharp/ArrayList/bin/Debug/net6.0/ref/ArrayList.dll
+/Users/berk/Documents/Projects/CSharp/ArrayList/bin/Debug/net6.0/ArrayList.pdb
+/Users/berk/Documents/Projects/CSharp/ArrayList/obj/Debug/net6.0/ArrayList.csproj.AssemblyReference.cache
+/Users/berk/Documents/Projects/CSharp/ArrayList/obj/Debug/net6.0/ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berk/Documents/Projects/CSharp/ArrayList/obj/Debug/net6.0/ArrayList.AssemblyInfoInputs.cache
+/Users/berk/Documents/Projects/CSharp/ArrayList/obj/Debug/net6.0/ArrayList.AssemblyInfo.cs
+/Users/berk/Documents/Projects/CSharp/ArrayList/obj/Debug/net6.0/ArrayList.csproj.CoreCompileInputs.cache
+/Users/berk/Documents/Projects/CSharp/ArrayList/obj/Debug/net6.0/ArrayList.dll
+/Users/berk/Documents/Projects/CSharp/ArrayList/obj/Debug/net6.0/ref/ArrayList.dll
+/Users/berk/Documents/Projects/CSharp/ArrayList/obj/Debug/net6.0/ArrayList.pdb
+/Users/berk/Documents/Projects/CSharp/ArrayList/obj/Debug/net6.0/ArrayList.genruntimeconfig.cache
