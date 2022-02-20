@@ -1,0 +1,15 @@
+/Users/berk/Documents/Projects/CSharp-OOP/Sınıf Kavramı/bin/Debug/net6.0/Sınıf Kavramı
+/Users/berk/Documents/Projects/CSharp-OOP/Sınıf Kavramı/bin/Debug/net6.0/Sınıf Kavramı.deps.json
+/Users/berk/Documents/Projects/CSharp-OOP/Sınıf Kavramı/bin/Debug/net6.0/Sınıf Kavramı.runtimeconfig.json
+/Users/berk/Documents/Projects/CSharp-OOP/Sınıf Kavramı/bin/Debug/net6.0/Sınıf Kavramı.dll
+/Users/berk/Documents/Projects/CSharp-OOP/Sınıf Kavramı/bin/Debug/net6.0/ref/Sınıf Kavramı.dll
+/Users/berk/Documents/Projects/CSharp-OOP/Sınıf Kavramı/bin/Debug/net6.0/Sınıf Kavramı.pdb
+/Users/berk/Documents/Projects/CSharp-OOP/Sınıf Kavramı/obj/Debug/net6.0/Sınıf Kavramı.csproj.AssemblyReference.cache
+/Users/berk/Documents/Projects/CSharp-OOP/Sınıf Kavramı/obj/Debug/net6.0/Sınıf Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berk/Documents/Projects/CSharp-OOP/Sınıf Kavramı/obj/Debug/net6.0/Sınıf Kavramı.AssemblyInfoInputs.cache
+/Users/berk/Documents/Projects/CSharp-OOP/Sınıf Kavramı/obj/Debug/net6.0/Sınıf Kavramı.AssemblyInfo.cs
+/Users/berk/Documents/Projects/CSharp-OOP/Sınıf Kavramı/obj/Debug/net6.0/Sınıf Kavramı.csproj.CoreCompileInputs.cache
+/Users/berk/Documents/Projects/CSharp-OOP/Sınıf Kavramı/obj/Debug/net6.0/Sınıf Kavramı.dll
+/Users/berk/Documents/Projects/CSharp-OOP/Sınıf Kavramı/obj/Debug/net6.0/ref/Sınıf Kavramı.dll
+/Users/berk/Documents/Projects/CSharp-OOP/Sınıf Kavramı/obj/Debug/net6.0/Sınıf Kavramı.pdb
+/Users/berk/Documents/Projects/CSharp-OOP/Sınıf Kavramı/obj/Debug/net6.0/Sınıf Kavramı.genruntimeconfig.cache
