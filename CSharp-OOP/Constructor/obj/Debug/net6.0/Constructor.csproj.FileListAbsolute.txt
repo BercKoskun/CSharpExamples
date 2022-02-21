@@ -1,0 +1,15 @@
+/Users/berk/Documents/Projects/CSharp-OOP/Constructor/bin/Debug/net6.0/Constructor
+/Users/berk/Documents/Projects/CSharp-OOP/Constructor/bin/Debug/net6.0/Constructor.deps.json
+/Users/berk/Documents/Projects/CSharp-OOP/Constructor/bin/Debug/net6.0/Constructor.runtimeconfig.json
+/Users/berk/Documents/Projects/CSharp-OOP/Constructor/bin/Debug/net6.0/Constructor.dll
+/Users/berk/Documents/Projects/CSharp-OOP/Constructor/bin/Debug/net6.0/ref/Constructor.dll
+/Users/berk/Documents/Projects/CSharp-OOP/Constructor/bin/Debug/net6.0/Constructor.pdb
+/Users/berk/Documents/Projects/CSharp-OOP/Constructor/obj/Debug/net6.0/Constructor.csproj.AssemblyReference.cache
+/Users/berk/Documents/Projects/CSharp-OOP/Constructor/obj/Debug/net6.0/Constructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berk/Documents/Projects/CSharp-OOP/Constructor/obj/Debug/net6.0/Constructor.AssemblyInfoInputs.cache
+/Users/berk/Documents/Projects/CSharp-OOP/Constructor/obj/Debug/net6.0/Constructor.AssemblyInfo.cs
+/Users/berk/Documents/Projects/CSharp-OOP/Constructor/obj/Debug/net6.0/Constructor.csproj.CoreCompileInputs.cache
+/Users/berk/Documents/Projects/CSharp-OOP/Constructor/obj/Debug/net6.0/Constructor.dll
+/Users/berk/Documents/Projects/CSharp-OOP/Constructor/obj/Debug/net6.0/ref/Constructor.dll
+/Users/berk/Documents/Projects/CSharp-OOP/Constructor/obj/Debug/net6.0/Constructor.pdb
+/Users/berk/Documents/Projects/CSharp-OOP/Constructor/obj/Debug/net6.0/Constructor.genruntimeconfig.cache
