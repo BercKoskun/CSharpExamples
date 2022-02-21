@@ -1,0 +1,15 @@
+/Users/berk/Documents/Projects/CSharp-OOP/Static Sınıfı ve Üyeler/bin/Debug/net6.0/Static Sınıfı ve Üyeler
+/Users/berk/Documents/Projects/CSharp-OOP/Static Sınıfı ve Üyeler/bin/Debug/net6.0/Static Sınıfı ve Üyeler.deps.json
+/Users/berk/Documents/Projects/CSharp-OOP/Static Sınıfı ve Üyeler/bin/Debug/net6.0/Static Sınıfı ve Üyeler.runtimeconfig.json
+/Users/berk/Documents/Projects/CSharp-OOP/Static Sınıfı ve Üyeler/bin/Debug/net6.0/Static Sınıfı ve Üyeler.dll
+/Users/berk/Documents/Projects/CSharp-OOP/Static Sınıfı ve Üyeler/bin/Debug/net6.0/ref/Static Sınıfı ve Üyeler.dll
+/Users/berk/Documents/Projects/CSharp-OOP/Static Sınıfı ve Üyeler/bin/Debug/net6.0/Static Sınıfı ve Üyeler.pdb
+/Users/berk/Documents/Projects/CSharp-OOP/Static Sınıfı ve Üyeler/obj/Debug/net6.0/Static Sınıfı ve Üyeler.csproj.AssemblyReference.cache
+/Users/berk/Documents/Projects/CSharp-OOP/Static Sınıfı ve Üyeler/obj/Debug/net6.0/Static Sınıfı ve Üyeler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berk/Documents/Projects/CSharp-OOP/Static Sınıfı ve Üyeler/obj/Debug/net6.0/Static Sınıfı ve Üyeler.AssemblyInfoInputs.cache
+/Users/berk/Documents/Projects/CSharp-OOP/Static Sınıfı ve Üyeler/obj/Debug/net6.0/Static Sınıfı ve Üyeler.AssemblyInfo.cs
+/Users/berk/Documents/Projects/CSharp-OOP/Static Sınıfı ve Üyeler/obj/Debug/net6.0/Static Sınıfı ve Üyeler.csproj.CoreCompileInputs.cache
+/Users/berk/Documents/Projects/CSharp-OOP/Static Sınıfı ve Üyeler/obj/Debug/net6.0/Static Sınıfı ve Üyeler.dll
+/Users/berk/Documents/Projects/CSharp-OOP/Static Sınıfı ve Üyeler/obj/Debug/net6.0/ref/Static Sınıfı ve Üyeler.dll
+/Users/berk/Documents/Projects/CSharp-OOP/Static Sınıfı ve Üyeler/obj/Debug/net6.0/Static Sınıfı ve Üyeler.pdb
+/Users/berk/Documents/Projects/CSharp-OOP/Static Sınıfı ve Üyeler/obj/Debug/net6.0/Static Sınıfı ve Üyeler.genruntimeconfig.cache
