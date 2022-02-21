@@ -1,0 +1,15 @@
+/Users/berk/Documents/Projects/CSharp-OOP/Encapsulation and Property/bin/Debug/net6.0/Encapsulation and Property
+/Users/berk/Documents/Projects/CSharp-OOP/Encapsulation and Property/bin/Debug/net6.0/Encapsulation and Property.deps.json
+/Users/berk/Documents/Projects/CSharp-OOP/Encapsulation and Property/bin/Debug/net6.0/Encapsulation and Property.runtimeconfig.json
+/Users/berk/Documents/Projects/CSharp-OOP/Encapsulation and Property/bin/Debug/net6.0/Encapsulation and Property.dll
+/Users/berk/Documents/Projects/CSharp-OOP/Encapsulation and Property/bin/Debug/net6.0/ref/Encapsulation and Property.dll
+/Users/berk/Documents/Projects/CSharp-OOP/Encapsulation and Property/bin/Debug/net6.0/Encapsulation and Property.pdb
+/Users/berk/Documents/Projects/CSharp-OOP/Encapsulation and Property/obj/Debug/net6.0/Encapsulation and Property.csproj.AssemblyReference.cache
+/Users/berk/Documents/Projects/CSharp-OOP/Encapsulation and Property/obj/Debug/net6.0/Encapsulation and Property.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berk/Documents/Projects/CSharp-OOP/Encapsulation and Property/obj/Debug/net6.0/Encapsulation and Property.AssemblyInfoInputs.cache
+/Users/berk/Documents/Projects/CSharp-OOP/Encapsulation and Property/obj/Debug/net6.0/Encapsulation and Property.AssemblyInfo.cs
+/Users/berk/Documents/Projects/CSharp-OOP/Encapsulation and Property/obj/Debug/net6.0/Encapsulation and Property.csproj.CoreCompileInputs.cache
+/Users/berk/Documents/Projects/CSharp-OOP/Encapsulation and Property/obj/Debug/net6.0/Encapsulation and Property.dll
+/Users/berk/Documents/Projects/CSharp-OOP/Encapsulation and Property/obj/Debug/net6.0/ref/Encapsulation and Property.dll
+/Users/berk/Documents/Projects/CSharp-OOP/Encapsulation and Property/obj/Debug/net6.0/Encapsulation and Property.pdb
+/Users/berk/Documents/Projects/CSharp-OOP/Encapsulation and Property/obj/Debug/net6.0/Encapsulation and Property.genruntimeconfig.cache
