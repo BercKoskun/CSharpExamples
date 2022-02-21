@@ -1,0 +1,15 @@
+/Users/berk/Documents/Projects/CSharp/Enum/bin/Debug/net6.0/Enum
+/Users/berk/Documents/Projects/CSharp/Enum/bin/Debug/net6.0/Enum.deps.json
+/Users/berk/Documents/Projects/CSharp/Enum/bin/Debug/net6.0/Enum.runtimeconfig.json
+/Users/berk/Documents/Projects/CSharp/Enum/bin/Debug/net6.0/Enum.dll
+/Users/berk/Documents/Projects/CSharp/Enum/bin/Debug/net6.0/ref/Enum.dll
+/Users/berk/Documents/Projects/CSharp/Enum/bin/Debug/net6.0/Enum.pdb
+/Users/berk/Documents/Projects/CSharp/Enum/obj/Debug/net6.0/Enum.csproj.AssemblyReference.cache
+/Users/berk/Documents/Projects/CSharp/Enum/obj/Debug/net6.0/Enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berk/Documents/Projects/CSharp/Enum/obj/Debug/net6.0/Enum.AssemblyInfoInputs.cache
+/Users/berk/Documents/Projects/CSharp/Enum/obj/Debug/net6.0/Enum.AssemblyInfo.cs
+/Users/berk/Documents/Projects/CSharp/Enum/obj/Debug/net6.0/Enum.csproj.CoreCompileInputs.cache
+/Users/berk/Documents/Projects/CSharp/Enum/obj/Debug/net6.0/Enum.dll
+/Users/berk/Documents/Projects/CSharp/Enum/obj/Debug/net6.0/ref/Enum.dll
+/Users/berk/Documents/Projects/CSharp/Enum/obj/Debug/net6.0/Enum.pdb
+/Users/berk/Documents/Projects/CSharp/Enum/obj/Debug/net6.0/Enum.genruntimeconfig.cache
